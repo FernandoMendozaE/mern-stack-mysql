@@ -1,0 +1,8 @@
+// Ruteo
+npm install react-router-dom@6
+
+// Formulario
+npm install formik --save
+
+// Para la comunicación API backend
+npm i axios
